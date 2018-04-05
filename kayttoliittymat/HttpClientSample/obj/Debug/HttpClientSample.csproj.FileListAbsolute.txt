@@ -1,0 +1,10 @@
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\HttpClientSample.exe.config
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\HttpClientSample.exe
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\HttpClientSample.pdb
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\Newtonsoft.Json.dll
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\System.Net.Http.Formatting.dll
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\Newtonsoft.Json.xml
+D:\L4623\kayttoliittymat\HttpClientSample\bin\Debug\System.Net.Http.Formatting.xml
+D:\L4623\kayttoliittymat\HttpClientSample\obj\Debug\HttpClientSample.csprojResolveAssemblyReference.cache
+D:\L4623\kayttoliittymat\HttpClientSample\obj\Debug\HttpClientSample.exe
+D:\L4623\kayttoliittymat\HttpClientSample\obj\Debug\HttpClientSample.pdb

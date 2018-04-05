@@ -1,0 +1,15 @@
+D:\L4623\kayttoliittymat\Snake\bin\Debug\Snake.exe.config
+D:\L4623\kayttoliittymat\Snake\bin\Debug\Snake.exe
+D:\L4623\kayttoliittymat\Snake\bin\Debug\Snake.pdb
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Game.g.cs
+D:\L4623\kayttoliittymat\Snake\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\Snake\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Game.baml
+D:\L4623\kayttoliittymat\Snake\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake.g.resources
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake.exe
+D:\L4623\kayttoliittymat\Snake\obj\Debug\Snake.pdb

@@ -1,0 +1,13 @@
+D:\L4623\kayttoliittymat\Monopoli\bin\Debug\Monopoli.exe.config
+D:\L4623\kayttoliittymat\Monopoli\bin\Debug\Monopoli.exe
+D:\L4623\kayttoliittymat\Monopoli\bin\Debug\Monopoli.pdb
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli_MarkupCompile.cache
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli_MarkupCompile.lref
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli.g.resources
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli.Properties.Resources.resources
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli.exe
+D:\L4623\kayttoliittymat\Monopoli\obj\Debug\Monopoli.pdb

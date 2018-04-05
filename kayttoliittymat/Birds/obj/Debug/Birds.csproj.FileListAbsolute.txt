@@ -1,0 +1,14 @@
+D:\L4623\kayttoliittymat\Birds\bin\Debug\Birds.exe.config
+D:\L4623\kayttoliittymat\Birds\bin\Debug\Birds.exe
+D:\L4623\kayttoliittymat\Birds\bin\Debug\Birds.pdb
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.csprojResolveAssemblyReference.cache
+D:\L4623\kayttoliittymat\Birds\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\Birds\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds_MarkupCompile.cache
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds_MarkupCompile.lref
+D:\L4623\kayttoliittymat\Birds\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.g.resources
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.Properties.Resources.resources
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.exe
+D:\L4623\kayttoliittymat\Birds\obj\Debug\Birds.pdb

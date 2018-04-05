@@ -1,0 +1,14 @@
+D:\L4623\kayttoliittymat\PwDemo\bin\Debug\PwDemo.exe.config
+D:\L4623\kayttoliittymat\PwDemo\bin\Debug\PwDemo.exe
+D:\L4623\kayttoliittymat\PwDemo\bin\Debug\PwDemo.pdb
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.csprojResolveAssemblyReference.cache
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo_MarkupCompile.cache
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo_MarkupCompile.lref
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.g.resources
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.Properties.Resources.resources
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.exe
+D:\L4623\kayttoliittymat\PwDemo\obj\Debug\PwDemo.pdb

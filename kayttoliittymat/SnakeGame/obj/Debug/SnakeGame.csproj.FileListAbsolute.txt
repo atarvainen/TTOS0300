@@ -1,0 +1,16 @@
+D:\L4623\kayttoliittymat\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\L4623\kayttoliittymat\SnakeGame\bin\Debug\SnakeGame.exe
+D:\L4623\kayttoliittymat\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\GameWindow.g.cs
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\GameWindow.baml
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.g.resources
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.exe
+D:\L4623\kayttoliittymat\SnakeGame\obj\Debug\SnakeGame.pdb

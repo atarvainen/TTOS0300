@@ -1,0 +1,14 @@
+D:\L4623\kayttoliittymat\AvPlayerDemo\bin\Debug\AvPlayerDemo.exe.config
+D:\L4623\kayttoliittymat\AvPlayerDemo\bin\Debug\AvPlayerDemo.exe
+D:\L4623\kayttoliittymat\AvPlayerDemo\bin\Debug\AvPlayerDemo.pdb
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.csprojResolveAssemblyReference.cache
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\MainWindow.g.cs
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\App.g.cs
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo_MarkupCompile.cache
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo_MarkupCompile.lref
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\MainWindow.baml
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.g.resources
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.Properties.Resources.resources
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.csproj.GenerateResource.Cache
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.exe
+D:\L4623\kayttoliittymat\AvPlayerDemo\obj\Debug\AvPlayerDemo.pdb

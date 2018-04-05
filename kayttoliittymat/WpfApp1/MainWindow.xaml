@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500" Background="#FFEE0000">
+    <Grid Background="White">
+        <Button x:Name="InfoButton" Content="Click Me!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="130" Height="50" Click="InfoButton_Click"/>
+        <TextBlock x:Name="InfoTextBlock" HorizontalAlignment="Left" Margin="257,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="110" Width="235" Background="#FF7A2828"><Run Text="aslgfdaölgkjöaldkjfgöladkjfgölakdjfgadfg"/></TextBlock>
+        <CheckBox Content="Valoshow" HorizontalAlignment="Left" Margin="157,18,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+        <StatusBar x:Name="statusbar" Margin="10,97,0,0" HorizontalAlignment="Left" Width="243" Height="28" VerticalAlignment="Top">
+            <Separator/>
+            <ProgressBar x:Name="ProgressBar" Width="100" Height="15"/>
+            <Separator/>
+            <TextBlock x:Name="TextBlockCapacity"/>
+            <Separator/>
+            <TextBlock x:Name="lblCursorPosition"/>
+        </StatusBar>
+        <TextBox x:Name="txtEditor" HorizontalAlignment="Left" Height="28" Margin="10,69,0,0" TextWrapping="Wrap" Text="Kirjoita jotain" VerticalAlignment="Top" Width="242" SelectionChanged="txtEditor_SelectionChanged" MaxLength="500" KeyUp="txtEditor_KeyUp"/>
+
+    </Grid>
+</Window>
